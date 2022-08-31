@@ -3,3 +3,6 @@
 
 ### Exercise 1
  Program that calculates the average of X amount of numbers.
+
+### Exercise 2
+ program that encodes and decodes the caesar cipher and converts it to binary.
