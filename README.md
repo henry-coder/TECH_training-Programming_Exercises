@@ -11,3 +11,7 @@
  api with 2 methods:
  - /getCifra: generates a fact about dogs and encrypts them using the caesar cipher with a random key.
  - /resolveCifra: decrypts the fact passed in the payload along with the key.
+
+## Exercise 4
+Basic MySQL database.
+Performs the registration of facts about dogs and categorizes by breeds
